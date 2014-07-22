@@ -4,6 +4,9 @@ require 'csv'
 csv_file = ARGV.shift
 headers = ARGV
 
+# ruby script to output number of occurrences of all values in a column of a csv
+# 
+#
 # to run:
 # ./facets.rb file.csv ColumnHeader
 #
